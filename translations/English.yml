@@ -1,0 +1,5 @@
+# Ready to use english translation file for the plugin
+# (for more information on LocalizationManager, see the LocalizationManager documentation https://github.com/blaxxun-boop/LocalizationManager#example-project).
+set_url: "Set URL"
+banner_url: "Banner URL"
+server_banner_url_deny: "Server is in control of the URL, denied"
