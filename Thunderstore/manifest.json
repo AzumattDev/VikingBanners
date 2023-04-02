@@ -1,9 +1,9 @@
 {
-  "name": "YOURMODNAME_HERE",
+  "name": "VikingBanners",
   "version_number": "1.0.0",
   "website_url": "https://discord.gg/pdHgy6Bsng",
-  "description": "Your mod description goes here. Do not forget to replace the icon.png file with your own. Must be 256x256. Your Readme.md file will be copied from the one in your project folder.",
+  "description": "VikingBanners is a mod that allows you to change the buildable banners texture. You can use URLs to set the banners, or if the server forces the URL it will use that one.",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2100"
+    "denikson-BepInExPack_Valheim-5.4.2102"
   ]
 }

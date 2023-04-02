@@ -14,6 +14,19 @@ VikingBanners is a mod that allows you to change the buildable banners texture. 
 
 `Note: This mod can be installed client only, but will not sync the configuration between clients. Clients can still see other's banners this way. It's only needed on the server if you wish to enforce any of the configuration values that have [Synced with Server] tags.`
 
+<details><summary><b>Textures you can use to make your own banners to upload!</b></summary>
+
+Please use the textures below to make your own banners, share the URL so others can use your designs! I will post them on the wiki page for this mod found here: https://valheim.thunderstore.io/package/Azumatt/VikingBanners/wiki/
+
+The default banners in the game use the texture below:
+![](https://i.imgur.com/WCvGro1.png)
+
+
+OdinsBanners uses the texture below:
+![](https://i.imgur.com/ytHfdqo.png)
+
+</details>
+
 <details>
 <summary><b>Configuration Options</b></summary>
 
@@ -26,7 +39,7 @@ Lock Configuration [Synced with Server]
     * Default Value: On
 
 Use Server Banner URL [Synced with Server]
-* A toggle that when turned on, sets all ship banners to use the Server Banner URL.
+* A toggle that when turned on, sets all banners to use the Server Banner URL.
     * Default Value: On
 
 Server Banner URL [Synced with Server]
@@ -34,20 +47,20 @@ Server Banner URL [Synced with Server]
     * Default Value: https://i.imgur.com/TbcJ3LU.png
 
 Edit Key [Not Synced with Server]
-* A keyboard shortcut that allows the player to interact with the ship to change the banner image
+* A keyboard shortcut that allows the player to interact with the banner to change the banner image
     * Default Value: Mouse1
 
 Require Key Press [Synced with Server]
-* A toggle that when turned on, requires the player to hold down the `Edit Key` in order to interact with the ship to change the banners.
+* A toggle that when turned on, requires the player to hold down the `Edit Key` in order to interact with the banner to change the banner.
     * Default Value: On
 
 Show URL On Hover [Synced with Server]
 * A toggle that when turned on, will show the URL after the interaction prompt so you might see the URL at quick glance. Note only will show to you if you have access to change the URL
     * Default Value: Off
 
-  To interact with a ship and change its banners, look at the ship and hold down the `Edit Key` (default: right mouse button). If `Require Key Press` is turned off, you can simply interact with the ship to change the banners via the prompt URL window. If `Require Key Press` is turned on, you must hold down the `Edit Key` and then interact.
+  To interact with a banner and change its texture, look at the banner's pole and hold down the `Edit Key` (default: right mouse button). If `Require Key Press` is turned off, you can simply interact with the ship to change the banners via the prompt URL window. If `Require Key Press` is turned on, you must hold down the `Edit Key` and then interact.
 
-  If `Use Server Banner URL` is turned on, the ship's banners will be updated with the URL set in the `Server Banner URL` field. If `Use Server Banner URL` is turned off, you can set the URL for the banners by interacting with the ship. This will open a text entry field where you can paste the URL for the image you want to use.
+  If `Use Server Banner URL` is turned on, the banners's texture will be updated with the URL set in the `Server Banner URL` field. If `Use Server Banner URL` is turned off, you can set the URL for the banners by interacting with the banner pole. This will open a text entry field where you can paste the URL for the image you want to use.
 </details>
 
 <details>
