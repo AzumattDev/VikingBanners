@@ -1,9 +1,9 @@
 {
   "name": "VikingBanners",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://discord.gg/pdHgy6Bsng",
   "description": "VikingBanners is a mod that allows you to change the buildable banners texture. You can use URLs to set the banners, or if the server forces the URL it will use that one.",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2102"
+    "denikson-BepInExPack_Valheim-5.4.2200"
   ]
 }
